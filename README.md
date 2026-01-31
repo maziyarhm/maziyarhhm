@@ -1,5 +1,5 @@
 ## 🧑‍💻 Lang & Tech
-![Python](...)
+![Python]
 ![Django](...)
 ![DRF](...)
 ![FastAPI](...)
